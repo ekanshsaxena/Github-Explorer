@@ -33,4 +33,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 1. Install [Tailwind](https://tailwindcss.com/docs/guides/create-react-app) and [DaisyUi](https://daisyui.com/)
 2. Install react-router-dom and react-icons
-3. Creating Navbar
+3. Navbar Created
+4. Footer Created
+5. About & NotFound Created
+6. Tested Github APIs through Postman
+7. UserList Created
+8. Get Users API setup and Loaded Setup
