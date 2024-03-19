@@ -39,3 +39,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 6. Tested Github APIs through Postman
 7. UserList Created
 8. Get Users API setup and Loaded Setup
+9. UserItem Component Created
+10. GithubContext created
+11. Manage Context using useReducer Hook
