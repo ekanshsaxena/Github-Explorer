@@ -44,3 +44,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 11. Manage Context using useReducer Hook
 12. Search Functionality Implemented
 13. Clear Functionality Added
+14. AlertContext Added along with its component
